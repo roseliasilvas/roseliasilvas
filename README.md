@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @roseliasilvas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-BOAS VINDAS AO MEU PERFIL
 
-<!---
-roseliasilvas/roseliasilvas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+MEU NOME E ROSELIA SILVA 
+
+-ESTOU ESTUDANDO NA ALURA
+ ESTOU ME DESENVOLVENDO NA LINGUAGEM JAVASCRIPT
+ UTILIZO ESSE ESPAÇO PARA MINHA ORGANIZAÇAO E 
+ COMPARTILHAMENTO DOS MEUS PROJETOS DESENVOLVIDOS
